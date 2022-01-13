@@ -1,0 +1,7 @@
+flipcart\api\EndpointsApiProfile.class
+flipcart\service\MicroserviceModule.class
+flipcart\api\Message.class
+flipcart\api\MessageEndpoint.class
+flipcart\guice\GuiceInjectorListener.class
+flipcart\api\EndpointsCommon.class
+flipcart\guice\RestEndpointsInitialization.class
